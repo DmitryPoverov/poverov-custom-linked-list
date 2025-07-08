@@ -1,15 +1,15 @@
-# poverov-custom-linked-list
+# Poverov Custom Linked List
 
-Custom implementation of a singly linked list in Java 21, as part of the internship test assignment for Innowise Group.
+This project contains a custom implementation of a singly linked list in Java 21 for the Innowise internship program.
 
-## Requirements
+## Prerequisites
 
-- Java 21+
-- Gradle (Gradle DSL)
+- Java 21
 - Git
 - JUnit 5
+- Gradle
 
-## Statement
+## Task Description
 Create your own realization of LinkedList and implement the following operations:
 - size() - returns the size of the list
 - addFirst(el) - adds the element in the beginning of the list
@@ -21,4 +21,5 @@ Create your own realization of LinkedList and implement the following operations
 - removeFirst() - retrieve and remove the first element of the list
 - removeLast() - retrieve and remove the last element of the list
 - remove(index) - retrieve and remove the element of the list by index
-#### Cover all these operations with unit tests using JUnit 5.
+
+Cover all these operations with unit tests using JUnit 5.
